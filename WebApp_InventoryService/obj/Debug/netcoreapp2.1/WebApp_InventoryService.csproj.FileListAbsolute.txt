@@ -1,0 +1,14 @@
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\bin\Debug\netcoreapp2.1\WebApp_InventoryService.deps.json
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\bin\Debug\netcoreapp2.1\WebApp_InventoryService.runtimeconfig.json
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\bin\Debug\netcoreapp2.1\WebApp_InventoryService.runtimeconfig.dev.json
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\bin\Debug\netcoreapp2.1\WebApp_InventoryService.dll
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\bin\Debug\netcoreapp2.1\WebApp_InventoryService.pdb
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.csprojAssemblyReference.cache
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.csproj.CoreCompileInputs.cache
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.RazorAssemblyInfo.cache
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.RazorAssemblyInfo.cs
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.AssemblyInfoInputs.cache
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.AssemblyInfo.cs
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.RazorTargetAssemblyInfo.cache
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.dll
+C:\Users\aidip\source\repos\WebApp_InventoryService\WebApp_InventoryService\obj\Debug\netcoreapp2.1\WebApp_InventoryService.pdb
